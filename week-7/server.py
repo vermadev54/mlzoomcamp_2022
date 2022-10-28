@@ -26,4 +26,5 @@ async def classify(application_data):
     print(prediction)
     result = prediction[0]
 
+
     return {"result": result}
