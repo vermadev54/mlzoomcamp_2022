@@ -60,7 +60,7 @@ Response:
 ```
 
 
-## instruction to run:
+## Instructions to run:
 
 Build bentoml 
 ```sh
