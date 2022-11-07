@@ -1,6 +1,6 @@
-## Projects Midterm project: Cars - Purchase Decision
+## Midterm Project-1: Cars - Purchase Decision
 
-This project will help any person to bye own car based on there current financial status.
+This project will help any person to buy own car based on there current financial status.
 
 ##  [Dataset used](https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset)
 
@@ -89,10 +89,15 @@ Pushing image to AWS ECR
 docker push 818606151817.dkr.ecr.us-east-1.amazonaws.com/cars-purchase-decision-clasification:latest
 ```
 
-Deployment in AWS ECS 
+## Deployment in AWS ECS 
+
+https://user-images.githubusercontent.com/34676681/200217175-ae1bcfb1-0401-435e-85fc-264ff8be2efb.mov
 
 
-AWS configuration 
+## AWS configuration 
+
+https://user-images.githubusercontent.com/34676681/200217722-de5b5f3d-afb3-44ea-822f-cd352279c0a8.mov
+
 
 
 
