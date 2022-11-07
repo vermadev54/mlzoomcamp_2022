@@ -2,7 +2,7 @@
 
 This project will help any person to buy own car based on there current financial status.
 
-##  [Dataset used](https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset)
+##  [Dataset link](https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset)
 
 
 ## Build Directory
