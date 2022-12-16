@@ -84,12 +84,12 @@ Docker tagging and pushing image to AWS ECR
 
 Docker taggging
 ```sh
-docker tag tweet_classify:v37k55t5e66pzlg6 818606151817.dkr.ecr.us-east-1.amazonaws.com/cars-purchase-decision-clasification:latest
+docker tag tweet_classify:v37k55t5e66pzlg6 818606151817.dkr.ecr.us-east-1.amazonaws.com/tweet-classify:latest
 ```
 
 Pushing image to AWS ECR
 ```sh
-docker push 818606151817.dkr.ecr.us-east-1.amazonaws.com/cars-purchase-decision-clasification:latest
+docker push 818606151817.dkr.ecr.us-east-1.amazonaws.com/tweet-classify:latest
 ```
 
 ## Deployment in AWS ECS 
