@@ -15,33 +15,31 @@ Sentiment analysis is a tool that automatically monitors emotions in conversatio
 ## Build Directory
 
 ```sh
-├── 2qgpa2c54ksl7lg6
-│   ├── README.md
-│   ├── apis
-│   │   └── openapi.yaml
-│   ├── bento.yaml
-│   ├── env
-│   │   ├── docker
-│   │   │   ├── Dockerfile
-│   │   │   └── entrypoint.sh
-│   │   └── python
-│   │       ├── install.sh
-│   │       ├── requirements.lock.txt
-│   │       ├── requirements.txt
-│   │       └── version.txt
-│   ├── models
-│   │   └── cars_purchase_decision_classify
-│   │       ├── latest
-│   │       └── r7w3ohs54kfo3lg6
-│   │           ├── custom_objects.pkl
-│   │           ├── model.yaml
-│   │           └── saved_model.pkl
-│   └── src
-│       ├── locustfile.py
-│       ├── notebook.ipynb
-│       ├── predict.py
-│       └── train.py
-└── latest
+v37k55t5e66pzlg6
+├── README.md
+├── apis
+│   └── openapi.yaml
+├── bento.yaml
+├── env
+│   ├── docker
+│   │   ├── Dockerfile
+│   │   └── entrypoint.sh
+│   └── python
+│       ├── install.sh
+│       ├── requirements.txt
+│       └── version.txt
+├── models
+│   └── tweet_classification
+│       ├── 7bxzvbd47chyflg6
+│       │   ├── custom_objects.pkl
+│       │   ├── model.yaml
+│       │   └── saved_model.pkl
+│       └── latest
+└── src
+    ├── locustfile.py
+    ├── notebook.ipynb
+    ├── predict.py
+    └── train.py
 ```
 
 ## Input/Output
