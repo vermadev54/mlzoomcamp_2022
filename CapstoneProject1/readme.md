@@ -94,9 +94,9 @@ docker push 818606151817.dkr.ecr.us-east-1.amazonaws.com/tweet-classify:latest
 
 ## Deployment in AWS ECS 
 
-https://user-images.githubusercontent.com/34676681/200217175-ae1bcfb1-0401-435e-85fc-264ff8be2efb.mov
+
 
 
 ## AWS configuration 
 
-https://user-images.githubusercontent.com/34676681/200217722-de5b5f3d-afb3-44ea-822f-cd352279c0a8.mov
+
