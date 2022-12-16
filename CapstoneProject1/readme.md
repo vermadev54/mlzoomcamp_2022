@@ -74,19 +74,19 @@ bentoml build
 
 Containerize the model
 ```sh
-bentoml containerize tweet_classify:f7cn37d5d6f73lg6 --platform linux/amd64
+bentoml containerize tweet_classify:v37k55t5e66pzlg6 --platform linux/amd64
 ```
 
 Run locally
 ```sh
-docker run -it --rm -p 3000:3000 tweet_classify:f7cn37d5d6f73lg6
+docker run -it --rm -p 3000:3000 tweet_classify:v37k55t5e66pzlg6
 ```
 
 Docker tagging and pushing image to AWS ECR
 
 Docker taggging
 ```sh
-docker tag cars_purchase_decision_classify:2qgpa2c54ksl7lg6 818606151817.dkr.ecr.us-east-1.amazonaws.com/cars-purchase-decision-clasification:latest
+docker tag tweet_classify:v37k55t5e66pzlg6 818606151817.dkr.ecr.us-east-1.amazonaws.com/cars-purchase-decision-clasification:latest
 ```
 
 Pushing image to AWS ECR
