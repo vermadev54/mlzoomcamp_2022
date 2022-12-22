@@ -9,7 +9,7 @@ That's why sentiment analysis has become a key instrument in social media market
 
 Sentiment analysis is a tool that automatically monitors emotions in conversations on social media platforms.
 
-##  [Dataset link]([https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset](https://www.kaggle.com/competitions/tweet-sentiment-extraction])
+##  [Dataset link]([https://www.kaggle.com/competitions/tweet-sentiment-extraction/data])
 
 
 ## Build Directory
