@@ -99,7 +99,7 @@ docker push 818606151817.dkr.ecr.us-east-1.amazonaws.com/spam_classification:lat
 
 
 
+https://user-images.githubusercontent.com/34676681/213963733-71b584da-ed65-47d9-959d-6ca8ccc6d6ea.mov
 
-## AWS configuration 
 
 
