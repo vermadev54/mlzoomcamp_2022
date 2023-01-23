@@ -1,5 +1,5 @@
 
-## Capstone Project-1: Ham & Spam Messages Classification
+## Capstone Project-2: Ham & Spam Messages Classification
 
 This project will help public to filter spam message.
 
