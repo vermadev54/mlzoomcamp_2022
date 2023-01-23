@@ -10,7 +10,7 @@ The proportion of scam messages among spam has sharply increased in recent times
 
 A step toward creating a tool for scam message identification and early scam detection is classifying spam messages.
 
-##  [Dataset link]([https://www.kaggle.com/datasets/muhammadahmedansari/ham-spam-messages-dataset]))
+##  [Dataset link]([https://www.kaggle.com/datasets/muhammadahmedansari/ham-spam-messages-dataset])
 
 
 ## Build Directory
